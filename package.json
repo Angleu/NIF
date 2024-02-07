@@ -1,0 +1,22 @@
+{
+  "name": "nif",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "ts-dev index.ts"
+  },
+  "author": "Angleu Zua da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "lodash": "^4.17.21",
+    "puppeteer": "^22.0.0",
+    "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.202",
+    "ts-dev": "^2.1.16"
+  }
+}
